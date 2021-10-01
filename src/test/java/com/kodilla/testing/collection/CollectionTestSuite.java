@@ -17,6 +17,7 @@ public class CollectionTestSuite {
     @After
     public void after(){
         System.out.println("Test Case: end");
+
     }
     @Test
     public void testOldNumbersExterminatorEmptyList(){
