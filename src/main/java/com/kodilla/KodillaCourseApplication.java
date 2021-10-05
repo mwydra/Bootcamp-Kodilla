@@ -1,5 +1,6 @@
 package com.kodilla;
 
+import com.kodilla.testing.accenture.Duplicates;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
