@@ -13,11 +13,11 @@ public class ForumTestSuite {
         System.out.println("Test Case: end");
     }
     @BeforeClass
-    public void beforeClass(){
+    public static void beforeClass(){
         System.out.println("Test Suite: begin");
     }
     @AfterClass
-    public void afterClass(){
+    public static void afterClass(){
         System.out.println("Test Suite: end");
     }
     @Test
