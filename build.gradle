@@ -17,6 +17,14 @@ dependencies {
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
     testCompile 'junit:junit:4.13'
 	testCompile 'org.mockito:mockito-all:1.10.19'
+	testCompile "org.hamcrest:hamcrest-all:1.3"
+}
+
+bootJar {
+	mainClass = 'com.kodilla.KodillaCourseApplication'
+}
+springBoot {
+	mainClass = 'com.kodilla.KodillaCourseApplication'
 }
 
 
