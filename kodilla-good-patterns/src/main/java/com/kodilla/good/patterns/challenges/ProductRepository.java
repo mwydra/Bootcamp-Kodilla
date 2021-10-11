@@ -1,2 +1,4 @@
-package com.kodilla.good.patterns.challenges;public interface ProductRepository {
+package com.kodilla.good.patterns.challenges;
+
+public interface ProductRepository {
 }

@@ -1,2 +1,4 @@
-package com.kodilla.good.patterns.challenges;public class OrderDto {
+package com.kodilla.good.patterns.challenges;
+
+public class OrderDto {
 }
